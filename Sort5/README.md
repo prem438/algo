@@ -1,0 +1,2 @@
+# Sort 5
+Suppose you are given a set S of 25 distinct integers and a CPU that has a special instruction, SORTS, that can sort five integers in one cycle. Your task is to identify the largest, second-largest, and third-largest integers in S using SORTS to compare and sort subsets of S; furthermore, you must minimize the number of calls to SORTS.
