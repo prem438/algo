@@ -1,0 +1,1 @@
+the problem of string search: given two strings s (search string) and t (text), find all occurrences of sin t.

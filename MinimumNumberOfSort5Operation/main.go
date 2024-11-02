@@ -20,6 +20,7 @@ func sortN(A []int, N int) []int {
 func init(){
     logger = log.Default()
 	logger.SetFlags(log.Lshortfile)
+	logger.Println("main init")
 }
 
 func getMaxN(A []int, N, C int) {
